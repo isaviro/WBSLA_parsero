@@ -36,7 +36,7 @@ PS C:\Users\IO\Desktop\parsero
 4. Despues ejecutamos a *parsero_.py* donde nos pregunta el archivo que queremos transformar (usamos el fasta linearizado)
 ```
 PS C:\Users\IO\Desktop\parsero python parsero_.py
-Hello, input linearized fasta file you want to modify:: line_TEST_2_Panga.txt
+Hello, input linearized fasta file you want to modify: line_TEST_2_Panga.txt
 preparing file as dataframe
             Accesion                        Species                                     Fasta sequence
 0    [>KAB5583777.1]  [Pangasianodon hypophthalmus]  [MLRLQCVVLALVLYLKGSLSQLDVCGRAPFNTRIVGGQSASDGVW...
